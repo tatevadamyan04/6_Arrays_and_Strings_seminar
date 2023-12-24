@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\bin\Debug\net8.0\Task 1.exe
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\bin\Debug\net8.0\Task 1.deps.json
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\bin\Debug\net8.0\Task 1.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\bin\Debug\net8.0\Task 1.dll
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\bin\Debug\net8.0\Task 1.pdb
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\obj\Debug\net8.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\obj\Debug\net8.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\obj\Debug\net8.0\Task 1.dll
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\obj\Debug\net8.0\refint\Task 1.dll
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\obj\Debug\net8.0\Task 1.pdb
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\obj\Debug\net8.0\Task 1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Programming\C#\6_arrays_and_strings_seminar\Tasks\Task 1\obj\Debug\net8.0\ref\Task 1.dll
